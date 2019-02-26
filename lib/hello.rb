@@ -19,3 +19,5 @@ def hello_t(array)
 end
 # call your method here!
 
+require 'pry'
+binding.pry
